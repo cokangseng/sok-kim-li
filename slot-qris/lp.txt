@@ -8068,7 +8068,7 @@ rgba(0, 35, 20, .98));
 
       <div class="popup-footer">
         BONENGJITU - Pendaftar Situs Toto Macau & Slot QRIS Super Kilat 1 Detik Masuk Terpercaya<br />
-        <span>&copy; COPYRIGHT 2026 Slot Qris | SCZ.</span>
+        <span>&copy; COPYRIGHT 2026 Slot Qris | Pangsit.</span>
       </div>
     </div>
   </div>
